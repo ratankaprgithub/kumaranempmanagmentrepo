@@ -7,5 +7,7 @@ public class A {
 		System.out.println("inside funA of A");
 		
 		System.out.println("hhhhhhhhhhh");
+		
+		
 	}
 }
